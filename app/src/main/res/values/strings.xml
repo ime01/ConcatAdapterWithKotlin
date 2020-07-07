@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConcatAdapterWithKotlin</string>
+    <string name="text_user">Christopher</string>
+</resources>
